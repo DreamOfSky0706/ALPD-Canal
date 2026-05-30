@@ -361,3 +361,15 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Game save files
+*.dat
+
+# Large media files (exceeds GitHub 100MB limit)
+*.mp4
+*.zip
+*.rar
+*.7z
+
+# Large ML model files (exceeds GitHub 100MB limit)
+*_svm_model.xml
